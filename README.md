@@ -4,7 +4,7 @@ Sistema web para la gestión y creación de cursos cortos del **SENA**, diseñad
 
 ## Características principales
 
-- Registro y seguimiento de solicitudes de cursos cortos (regular y campesino)
+- Registro y seguimiento de solicitudes de cursos cortos (regular y campeSENA)
 - Gestión de aspirantes con preinscripción en línea
 - Generación automática de cartas de solicitud, formatos de inscripción y archivos SOFIA Plus
 - Control de estados del proceso por roles (funcionario, coordinador, administrador)
