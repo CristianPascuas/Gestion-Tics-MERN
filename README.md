@@ -1,4 +1,4 @@
-# Gestión TICS MERN — Sistema de Cursos Cortos SENA
+# Gestión TICS MERN 
 
 Sistema web para la gestión y creación de cursos cortos del **SENA**, diseñado para digitalizar y automatizar los procesos que anteriormente se realizaban de forma manual. La plataforma centraliza la administración de solicitudes, aspirantes y programas curriculares, y genera automáticamente los documentos y archivos requeridos en cada etapa del proceso, reduciendo significativamente los márgenes de error y el tiempo operativo.
 
